@@ -1,1 +1,1 @@
-[{"id":"e18bffb4.1e74","type":"comment","z":"dbf68c4e.24097","name":"Biogrid Cortex","info":"# Flow files\nThe flow files will be persisted in a Docker volume.","x":234.5,"y":51,"wires":[]}]
+[{"id":"e18bffb4.1e74","type":"comment","z":"f350a1bc.0caf6","name":"Biogrid Cortex","info":"# Editing\nAll deployed changes will be persisted in the container volume at ~./node-red/flows/biogrid-cortex-flows.json\n\n","x":234.5,"y":51,"wires":[]}]
